@@ -16,7 +16,8 @@ venv/
 .vscode/
 
 # Project Specific
-output/
-!output/example.png
-!output/Demo_Case/
-!output/.keep
+!assets/
+!output/
+!output/**
+.env
+.env.example
