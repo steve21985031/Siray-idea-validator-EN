@@ -1,4 +1,4 @@
-# Siray Idea Validator Pro (Comic-Drama Commercial Evaluator)
+# Siray Idea Evaluator & Optimizer Pro (Comic-Drama Commercial Evaluation & Optimization)
 
 > **Bridge the gap between "Random Inspiration" and "Million-View Comic-Drama Script" in seconds.**
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Why do you need Siray Skills | Idea Validator?
+## 🎯 Why do you need Siray Skills | Idea Evaluator & Optimizer?
 
 In the AI Comic-Drama track, what determines views isn't "writing style," but **"Commercial Addictive Indicators."**
 
@@ -22,11 +22,11 @@ Pain points of traditional scriptwriting:
 - **Visual Stagnation**: Beautiful words that lack conflict when converted to AI images, resulting in low completion rates.
 - **Innovation Hurdles**: Knowing a theme is cliché but not knowing how to perform "Setting Displacement" or "Reverse Upgrades" at key junctions.
 
-**Siray Idea Validator** is designed to solve these. It integrates the official Siray Skills track strategy guide, serving as your "Chief Architect Assistant" before any script rollout.
+**Siray Idea Evaluator & Optimizer** is designed to solve these by providing a dual-engine workflow: **Strict Commercial Evaluation** to identify flaws and **Deep Narrative Optimization** to inject commercial value. It integrates the official Siray Skills track strategy guide, serving as your "Chief Architect Assistant" before any script rollout.
 
 ---
 
-## 📥 Quick Start (4-Step Workflow)
+## 📥 Quick Start (5-Step Workflow)
 
 > **Welcome to the elite rank of Siray Skills Creators. Let's begin the commercial evolution of your script.**
 
@@ -50,15 +50,21 @@ Start the expert directly as if talking to a real assistant:
 <img src="./assets/siray_skills_step2.png" width="600" />
 
 
-### Step 3: Command is the Way: Tactical Execution
-1. **Input Material**: Send your inspiration. To witness deep industry insight, reply "Use Series A example" for an official perfect template.
-2. **Hard Logic Audit**: Experience the rigor of **DeepSeek V3.2** under the Siray instruction framework, scanning for "Market Fit, Visual Spectacle, and Concept Novelty."
-3. **Creative Soul Fission**: **Claude 4.5 Thinking** will activate built-in **T1-T5 Top Tactics**, transforming flat narratives into "Commercial Hooks" that instantly spike script value.
+### Step 3: Hard Logic Audit (Assessment)
+1. **Input Material**: Send your inspiration, rough script, or outline. 
+2. **Commercial Scan**: Experience the rigor of **DeepSeek V3.2** under the Siray instruction framework, scanning for "Market Fit, Visual Spectacle, and Concept Novelty."
+3. **Reference Benchmarking**: Reply "Use Series A example" to see how the system evaluates an official perfect template.
+
+<img src="./assets/siray_skills_step3_input.png" width="600" />
+
+
+### Step 4: Creative Soul Fission (Optimization)
+Once the audit is complete, the system doesn't just leave you with problems. **Claude 4.5 Thinking** will activate built-in **T1-T5 Top Tactics** to perform "Structural Surgery" on your script, transforming flat narratives into "Commercial Hooks" that instantly spike script value.
 
 <img src="./assets/siray_skills_step3.png" width="600" />
 
 
-### Step 4: Automated Reporting — [Siray Skills Signature Aesthetic]
+### Step 5: Automated Reporting — [Siray Skills Signature Aesthetic]
 Without extra confirmation, the system generates dual-format reports in `./output/` reflecting Siray's minimalist aesthetic:
 * **Markdown Archive**: Holds the deep logical derivation, perfect for project review.
 * **Premium HTML Card**: The visual business card of Siray Skills. High-aesthetic "Commercial Passport" with full data visualization.
@@ -92,7 +98,23 @@ We have pre-configured 5 high-value example scripts based on the **Siray Skills 
 
 ---
 
-## 🚀 Why Siray Idea Validator?
+## 🚀 Why Siray Idea Evaluator & Optimizer?
+
+---
+
+## ⚔️ Understanding the T1-T5 Innovation Tactics
+
+For those new to the Siray framework, the **T1-T5 Tactics** are specialized "Commercial Surgery" tools used to optimize scripts:
+
+- **T1: Setting Displacement**: Swapping standard characters into alien/high-contrast environments to create instant curiosity.
+- **T2: Scale Multiplier**: Upgrading the magnitude of events (from a "fight" to a "world-shattering duel") to maximize visual impact.
+- **T3: Rule Reversal**: Subverting audience expectations by flipping moral or logical rules (e.g., the "Hero" is the cause of the disaster).
+- **T4: Visual First**: Designing scenes that are surreal or hyper-visual, specifically optimized for AI video/image generation.
+- **T5: Proxy Catharsis**: Identifying social frustrations and providing a high-impact emotional payoff to drive audience addiction.
+
+---
+
+## 🚀 Why Siray Idea Evaluator & Optimizer?
 
 | Dimension         | Normal AI (ChatGPT/Claude)   | Siray Idea Validator ✅                |
 | :---------------- | :--------------------------- | :------------------------------------ |
